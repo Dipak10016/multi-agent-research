@@ -1,7 +1,7 @@
-echo streamlit>=1.35.0 > requirements.txt
-echo groq>=0.9.0 >> requirements.txt
-echo tavily-python>=0.3.3 >> requirements.txt
-echo langgraph>=0.1.19 >> requirements.txt
-echo langchain-groq>=0.1.6 >> requirements.txt
-echo langchain-core>=0.2.0 >> requirements.txt
-echo python-dotenv>=1.0.0 >> requirements.txt
+streamlit>=1.35.0
+groq>=0.9.0
+tavily-python>=0.3.3
+langgraph>=0.1.19
+langchain-groq>=0.1.6
+langchain-core>=0.2.0
+python-dotenv>=1.0.0
